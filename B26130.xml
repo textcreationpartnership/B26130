@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Commune concilium tentum in camera Guildhall civitatis London, die veneris, vicesimo septimo die Octobris, anno Domini, 1671. Annoq; Regni Domini nostri Caroli Secundi, Dei gratia, Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ Regis, Fidei Defensoris, &amp;c. vicesimo tertio; coram Ricardo Ford, milite, majore civitatis London, Ricardo Chiverton, &amp; Johanne Frederick, militibus, Johanne Robinson, milite &amp; baronetto, locum-tenente turris, Thoma Bludworth, Willielmo Peake, Samuele Starling, Roberto Hanson, &amp; Josepho Sheldon, militibus, &amp; Patiente Ward, armigero, aldermannis, Jonathan Dawes &amp; Roberto Clayton, armigeris, aldermannis ac vicecomitibus dictæ civitatis London, necnon majore parte communiariorum de Communi Concilio ejusdem civitatis tunc &amp; ibidem assemblat. An Act for setling of lay-stalls, preventing several inconveniences to passengers, and relating also to the cleansing of the streets and passages within this city and liberties thereof</title>
+            <title>Act for setling of lay-stalls, preventing several inconveniences to passengers, and relating also to the cleansing of the streets and passages within this city and liberties thereof.</title>
+            <author>City of London (England). Court of Common Council.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26130</idno><idno type="EEBO-CITATION">99828515</idno>
+  <idno type="VID">207816</idno>
+  <idno type="EEBO-PROQUEST">2240883411</idno>
+  
+            <idno type="STC">Wing L2854E</idno>
+            <idno type="PROQUEST">99828515</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828515e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26130)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207816)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1954:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Commune concilium tentum in camera Guildhall civitatis London, die veneris, vicesimo septimo die Octobris, anno Domini, 1671. Annoq; Regni Domini nostri Caroli Secundi, Dei gratia, Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ Regis, Fidei Defensoris, &amp;c. vicesimo tertio; coram Ricardo Ford, milite, majore civitatis London, Ricardo Chiverton, &amp; Johanne Frederick, militibus, Johanne Robinson, milite &amp; baronetto, locum-tenente turris, Thoma Bludworth, Willielmo Peake, Samuele Starling, Roberto Hanson, &amp; Josepho Sheldon, militibus, &amp; Patiente Ward, armigero, aldermannis, Jonathan Dawes &amp; Roberto Clayton, armigeris, aldermannis ac vicecomitibus dictæ civitatis London, necnon majore parte communiariorum de Communi Concilio ejusdem civitatis tunc &amp; ibidem assemblat. An Act for setling of lay-stalls, preventing several inconveniences to passengers, and relating also to the cleansing of the streets and passages within this city and liberties thereof</title>
+                  <title>Act for setling of lay-stalls, preventing several inconveniences to passengers, and relating also to the cleansing of the streets and passages within this city and liberties thereof.</title>
+                  <author>City of London (England). Court of Common Council.</author>
+               </titleStmt>
+               <extent>3 sheets (verso blank)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark, printer to the honourable City of London, at his house in Aldersgatestreet,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>MDCLXXI. [1671]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:207816:1"/>
+            <head>
+               <figure>
+                  <figDesc>arms</figDesc>
+               </figure> Commune Concilium tentum in Camera <hi>Guildhall</hi> Civitatis <hi>London,</hi> die <hi>Veneris,</hi> vicesimo septimo die <hi>Octobris,</hi> Anno Domini, 1671. Anno{que} Regni Domini nostri CAROLI Secundi, Dei Gratia, <hi>Angliae, Scotiae, Franciae,</hi> &amp; <hi>Hiberniae</hi> Regis, Fidei Defensoris, &amp;c. vicesimo tertio; coram <hi>Ricardo Ford,</hi> Milite, Majore Civitatis <hi>London, Ricardo Chiverton,</hi> &amp; <hi>Johanne Frederick,</hi> Militibus, <hi>Johanne Robinson,</hi> Milite &amp; Baronetto, Locum-tenente Turris, <hi>Thoma Bludworth, Willielmo Peake, Samuele Starling, Roberto Hanson,</hi> &amp; <hi>Josepho Sheldon,</hi> Militibus, &amp; <hi>Patiente Ward,</hi> Armigero, Alder<g ref="char:EOLhyphen"/>mannis, <hi>Jonathan Dawes</hi> &amp; <hi>Roberto Clayton,</hi> Armigeris, Aldermannis ac Vicecomitibus dictae Civitatis <hi>London,</hi> necnon majore parte Communiariorum de Communi Concilio ejusdem Civitatis tunc &amp; ibidem assemblat.</head>
+            <head>An Act for setling of Lay-Stalls, preventing several Inconveniences to Passengers, and relating also to the Cleansing of the Streets and Passages within this City and Liberties thereof.</head>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS by an Act of this present Parliament, Entituled, <hi>An Act for the better Paving and Cleansing the Streets and Sewers in and about the City of <hi>LONDON,</hi>
+               </hi> the appointing, setting out, and purchasing of Places convenient for Lay-stalls, and for publick Stores for Materials and Commodities, is vested in the Maior, Aldermen, and Commons in Common Council assembled; and other Authorities therein mentioned are thereby vested in the Maior, Commonalty, and Citizens of the said City, to be managed, executed, and done by such Persons as by the said Maior, Aldermen, and Commons in Common Council assembled, shall be thereunto authorized and appointed, or by any Seven or more of them (being all Members of the said Court) and no other Persons whatsoever. Be it therefore Enacted, Ordained, and Established by the Right Honourable the Lord Maior, the Right Worshipful the Aldermen, and the Commons in this present Common Council assembled, and by the Autho<g ref="char:EOLhyphen"/>rity of the same, and the said Lord Maior, Aldermen, and Commons in this present Common Council assembled do hereby appoint, That the several Pieces or Parcels of Ground here<g ref="char:EOLhyphen"/>after named, that is to say, a Piece or Parcel of waste Ground on the South-side of the hither end of <hi>Mile-end Green,</hi> adjoining to the High-way there, extending from the Place called the <hi>Fort,</hi> to the hither end of the Wall of the House and Ground called the <hi>Red Lion;</hi> a Piece of Ground on the West-side of and contiguous to <hi>Dowgate</hi>-Dock, now or late in the Possession of <hi>Job Clark;</hi> a Piece or Parcel of Ground on the East-side of and contiguous to <hi>Puddle-Dock,</hi> now or late in the Possession of <hi>John Cock,</hi> and a Piece or Parcel of Ground on the West-side of and contiguous to <hi>Whitefriers-Dock,</hi> now or late in the Tenure or Possession of <hi>Robert Gosling,</hi> shall be from henceforth Places for Common Lay-stals, to be employed for the Publick Vse and Benefit of this City and Liberties thereof, in such manner as the Commissioners authorized or to be authorized by this Court according to the said Act of Parliament, or any Seven or more of them shall order and direct; and the said Commissioners or any Seven or more of them shall by Warrant under their Hands and Seals directed to the Chamberlain of this City for the time being, order the Payment of all such Sums of Money as are or shall be agreed upon concerning the same between the respective Proprietors of the said Grounds and the said Commissioners; which Agreements the said Commissioners are hereby impowered to per<g ref="char:EOLhyphen"/>form and make, and the said Chamberlain for the time being shall make Payment thereof accordingly out of the Moneys arising by the Imposition upon Coals, according to the aforesaid Act of Parliament.</p>
+            <p>And the said Commissioners or any Seven or more of them are hereby farther authorized, as need shall require, to appoint and set out such and so many other Parcels of Ground for common Lay-stals, and for Publick Stores for all sorts of Fuel, and for all sorts of Materials for Pitching, Paving, and Cleansing the Streets, and for other Commo<g ref="char:EOLhyphen"/>dities for Publick Vse, as from time to time shall be by them found requisite and necessary; and to make Agreement with the Proprietors of the said Grounds, and to order Payment for the same in manner as aforesaid, and the Order<g ref="char:EOLhyphen"/>ing and Managing of the said Places when set out and appointed shall be in the said Commissioners or any Seven or more of them; And that all the Profits thereof shall be paid unto the Chamberlain of this City for the time being, for the use of the Maior, Commonalty, and Citizens of the same, and distinct Books of Accompts shall be kept concerning the same, and the said Profits shall be disposed of from time to time, as the said Commissioners or any Seven or more of them shall appoint to be approved of by this Court.</p>
+            <p>And be it Enacted by the Authority aforesaid; That the said Commissioners or any Seven or more of them shall from henceforth have Authority, and are hereby impowered from time to time to summon, enquire after, examine, and in default of Appearance upon such Summons or Submission to the censure or judgment of the said Commissioners or any Seven or more of them, to cause to be Indicted or informed against at the Sessions of the Peace to be held for this City, all such Persons as have made and shall continue within this City and Liberties thereof any Bulks or Stalls contrary to the ancient Vsage and Custom of this City and several late Acts of Parliament, or have made and shall continue any Stall-Boards above the bredth allowable by the said antient Vsage and Custom and Acts of Par<g ref="char:EOLhyphen"/>liament, or shall set Goods and Commodities or Materials for Building into the Common Streets and Common Passages within this City or Liberties thereof, or shall hang out Goods to the Hindrance or Damage of Passengers, or their Neighbours Trade, or streightning the common Passage, or shall throw out or cast into the Streets, any Dust, Soil, or Rubbish, or shall dig any Pits or Drains, or otherwise intermeddle with the Pavements (without Licence from the said Commissioners or any Seven or more of them) which shall tend to the obstructing or Annoyance of the Ways, Passages, or Water-courses of this City.</p>
+            <pb facs="tcp:207816:2"/>
+            <p>And further be it Enacted by the Authority aforesaid, That from henceforth no Beggars or Vagrants, Tankard-bearers, Porters, or other persons whatsoever bearing any kind of Burthens on their Heads, Backs, or Arms, Horses, or any kind of Cattel, shall be permitted at any time of the day from Six of the clock in the Morning, until Nine of the clock at Night, to go on, pass, or be lead upon the flat Pavements in any Street between the Houses and the Posts adjoining to the said flat Pavements, except only for going into the said Houses directly cross the said Pavements, under the penalty of five shillings for every Horse or other kind of Cattel whatsoever, and three shillings four pence for every Tankard-bearer, Porter, and other person carrying Burthen as aforesaid, for every Offence, and the said Beggars and Vagrants to be punished according to the Laws already in force: And that all Constables within this City and Liberties thereof and other Officers employed, or to be employed, by the said Commissioners or any Seven or more of them (who shall have power and are hereby authorized and directed to employ such persons accor<g ref="char:EOLhyphen"/>dingly) and all Marshals and their Men and Warders are to take special care to prevent the said Offences and to appre<g ref="char:EOLhyphen"/>hend all such Offenders; And in case the said Marshals or their Men or Warders shall be negligent in doing their Duty herein, it shall be lawful for the Lord Maior for the time being and his Successors, upon due proof of such Neglect, to amove such Marshals and their Men, and other inferiour Warders, and others to put in their places.</p>
+            <p>And further be it Enacted by the Authority aforesaid, That no Street-Car or Brewers Dray shall from and after the Tenth day of <hi>December</hi> next ensuing, be drawn with more than one Horse within this City or Liberties thereof, unless in such case only where the Load cannot be divided, and that the Weight thereof shall require more than one Horse for the Draught thereof, and in case also of drawing up any the Hills from <hi>Thames-street,</hi> and up <hi>Holborn-Hill,</hi> upon the penalty of Ten shillings by the Owner of such Car or Dray which shall break this Law, for the first Offence, Twenty shillings for the second Offence, and Thirty shillings for the third and every other Offences, and that the supernumerary Horse and Horses shall and may be seized and impounded by the Officers appointed to take care of the before-mentioned Offences, or any of them, or by such Officer or Officers as are or shall be appointed by the President, Treasurer, and Governours of <hi>Christs Hospital</hi> for the time being for taking care of Cars and Car-men until the said penalty be paid.</p>
+            <p>And be it further Enacted, That all Cars, Wagons, Drays, and other Carriages during all the time of their Loading and Vnloading within the Streets of this City and Liberties thereof, unless before Six of the clock in the Morning, and after Eight of the clock in the Evening, from <hi>Lady Day</hi> to <hi>Michaelmas,</hi> and before Eight in the Morning, and after Six in the Evening from <hi>Michaelmas</hi> to <hi>Lady Day,</hi> shall stand side-waies the long way of the Street, and not cross the same, that so Passengers may safely go between the Houses and Car<g ref="char:EOLhyphen"/>riages (Except for such Goods and Commodities as are not portable) And that no Dray upon any occasion what<g ref="char:EOLhyphen"/>soever, shall from henceforth stand in any Street or Passage within this City or Liberties thereof, but where a Coach or other Dray may pass by such Cart or Dray so standing: Nor shall stand any longer time than for Loading or Vnloading, or other case of absolute Necessity: And that if any person or persons shall cause his or their Car or Carriages to be set otherwise in Loading or Vnloading, he and they shall forfeit three shillings four pence for every such Offence; and upon the penalty that every Owner and Owners of every Dray standing contrary to this Act shall forfeit three shillings four pence for every Offence, and the Horse and Dray shall be impounded by any the Officers aforesaid, till Payment thereof.</p>
+            <p>And be it further Enacted by the Authority aforesaid, That from and after the said Tenth day of <hi>December</hi> next ensuing, all the Dung, Soil, Filth, Seacoal-Ashes, and other Dirt, as well from all the Streets, Lanes, and Pas<g ref="char:EOLhyphen"/>sages, as from all the Houses of the Inhabitants within this City and Liberties thereof, shall be carried away by such persons or their Servants, who are at present or that shall or may from time to time hereafter be permitted or allowed to work any Car or Cars within this City or Liberties thereof, by the said President, Treasurer, and Go<g ref="char:EOLhyphen"/>vernours of <hi>Christs Hospital,</hi> in such Manner and Method, and for such consideration as by the said Commissi<g ref="char:EOLhyphen"/>oners or any Seven or more of them, and the Fellowship of Car-men, shall from time to time be agreed upon; and in case the said Commissioners and Fellowship cannot or shall not agree for or touching the carrying away the Soil as aforesaid: That then and in such case, it shall and may be lawful to and for the said President, Treasurer, and Governours of <hi>Christs Hospital,</hi> and they are hereby required, and impowered, upon Certificate from the said Com<g ref="char:EOLhyphen"/>missioners, to License such number of Cars as the said Commissioners or any Seven or more of them shall think fit, t no exceeding Eighty over and above the Four hundred and twenty Licensed by former Acts of Common Coun<g ref="char:EOLhyphen"/>cil, which said Cars are to be disposed of by the said Commissioners for the better carrying on their works, and are here<g ref="char:EOLhyphen"/>by inabled to do such other work as other Street-Cars do or may do, and the Owner and Owners thereof shall in all points (excepting for carrying of Soil and other works to be done by Order of the said Commissioners) be under the Regulation of the said President, Treasurer, and Governours, as other Street-Cars, and shall pay such Rent as by the said President, Treasurer, and Governours with the said Commissioners or any Seven or more of them shall be adjudged fit and reasonable, not exceeding Seventeen shillings four pence <hi>per annum</hi> apiece.</p>
+            <p>And it is Enacted by the Authority aforesaid; That one Act of Common Council bearing date the One and Twentieth day of <hi>June,</hi> 1665. touching the Ordering and Disposing of Cars, and all and every the Clauses therein contained, be put in due and effectual Execution by the said President, Treasurer, and Governours, and that the said Commissioners be assisting to them therein.</p>
+            <p>And it is Enacted, That all Pains, Penalties, and Forfeitures in and by this Act before limited and appointed, in case the same shall not be paid to the said Commissioners or seven or more of them, upon Summons to the respective Offendors before-hand made for their appearance before the said Commissioners concerning Payment thereof, shall and may be recovered by Action of Debt, Bill, or Information, in the name of the Chamberlain of this City for the time being, in his Majesties Court holden before the Maior and Aldermen of the said City in the Chamber of the <hi>Guildhall</hi> of the City of <hi>London,</hi> wherein no Essoin or Wager of Law shall be admitted or allowed for the Defendant, and after recovery thereof, one third part shall be to the Prosecutor, and the other two parts and residue thereof (after all charges out of the said two parts deducted) to the Poor of <hi>Christs Hospital</hi> in <hi>London,</hi> to be employed for and towards their Relief; In all which Suits to be brought by this Act, the Chamberlain shall recover his ordi<g ref="char:EOLhyphen"/>nary Costs and Charges, to be expended in and for recovery of all such Forfeitures against the Offender or Of<g ref="char:EOLhyphen"/>fenders; and in case the same Pains, Penalties, and Forfeitures shall be paid to the said Commissioners or any Seven or more of them upon Summons, as aforesaid, without any further process, one third part shall be disposed by the said Commissioners for Encouragement of their Officers who shall take pains in the matter aforesaid, in such manner as they shall think fit, and the other two parts shall be disposed to the Poor of the Hospital as is aforesaid.</p>
+            <p>And lastly, be it Enacted by the Authority aforesaid, That the Wardens and Assistants of the Fellowship of Car-men, now consisting of Twenty three in number, shall be forthwith increased and made up to the number of Forty one, and shall so continue for ever hereafter: And that the Eighteen to be so added, and so upon any Choice or Election of others for the future upon any Avoidance, shall be such Persons as have or shall actually serve an Apprenticeship to the said Calling of a Car-man, and no other.</p>
+            <closer>
+               <signed>Avery.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Andrew Clark,</hi> Printer to the Honourable City of <hi>LONDON,</hi> at his House in <hi>Aldersgatestreet.</hi> MDCLXXI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
